@@ -46,7 +46,7 @@ I am a motivated student specializing in **Big Data Engineering**, with a strong
 
 ### 📫 Connect With Me
 📧 **raselmiah9940@gmail.com**  
-🔗 LinkedIn: *(add link soon)*  
+🔗 LinkedIn:https://www.linkedin.com/in/rasalmiah/
 🌍 Portfolio Website: *(add link soon)*
 
 ---
