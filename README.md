@@ -21,6 +21,8 @@ and cloud-based data processing.
 I enjoy turning raw and fragmented data into **reliable pipelines, automated workflows, 
 and actionable business insights**.
 
+------
+
 ## 🎓 Education
 
 **B.Sc. Digital Technology & Management**  
@@ -31,7 +33,6 @@ Focus: Big Data Engineering
 Thomas More University of Applied Sciences, Belgium | 2025  
 Grade: 1.7 (German scale)  
 Coursework included database technologies and basic MongoDB.
----
 
 ## 🛠️ Technical Skills
 
