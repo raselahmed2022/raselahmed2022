@@ -21,26 +21,37 @@ and cloud-based data processing.
 I enjoy turning raw and fragmented data into **reliable pipelines, automated workflows, 
 and actionable business insights**.
 
+## 🎓 Education
+
+**B.Sc. Digital Technology & Management**  
+OTH Amberg-Weiden, Germany | Mar 2024 – Present  
+Focus: Big Data Engineering
+
+**Erasmus Exchange – Computer Science**  
+Thomas More University of Applied Sciences, Belgium | 2025  
+Grade: 1.7 (German scale)  
+Coursework included database technologies and basic MongoDB.
 ---
 
 ## 🛠️ Technical Skills
 
-**Data Engineering & Programming**  
-`Python` `Pandas` `SQL` `MySQL` `PySpark` `dbt Core`
+### Data Engineering & Programming
+`Python` `SQL` `Pandas` `PySpark` `dbt Core`
 
-**Data Analytics & BI**  
+### Databases
+`MySQL` `MongoDB (Basic)` `Data Modeling` `Data Validation`
+
+### Analytics & Business Intelligence
 `Power BI` `Power Query` `DAX` `Excel` `KPI Reporting`
 
-**Automation & Integration**  
+### Automation & Integration
 `n8n` `REST APIs` `Webhooks` `Workflow Automation`
 
-**Data Platforms & Cloud**  
+### Data Platforms & Cloud
 `Databricks` `Delta Lake` `MLflow` `AWS` `Docker`
 
-**Development & CI/CD**  
-`Git` `GitLab` `GitLab CI/CD`
-
----
+### Development
+`Git` `GitLab` `GitLab CI/CD` `VS Code`
 
 ## 💼 Industry Experience
 
